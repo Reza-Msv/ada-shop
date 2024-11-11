@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "yekan";
+  src: url("./assets/iranyekanwebmedium.woff");
+}
+
+
+:root{
+  background-color: rgb(242, 245, 248);
+}
